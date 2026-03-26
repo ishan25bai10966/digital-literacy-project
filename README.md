@@ -53,5 +53,5 @@ Studied identity theft in the Aadhaar context and created a prevention checklist
 
 ---
 
-## 🚀 Learning Outcome
+##  Learning Outcome
 This project enhanced my technical and communication abilities, raised my awareness of online safety and professional practices, and helped me comprehend the value of digital literacy.
