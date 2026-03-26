@@ -2,9 +2,9 @@
 
 ##  Student Details
 **Name:** Ishan Shrivas  
-**Reg No.:** 25BAI10966 
-**Branch:** B.Tech CSE (AI/ML)  
-**University:** VIT Bhopal University  
+**Reg No.:** 25BAI10966 <br>
+**Branch:** B.Tech CSE (AI/ML) <br>
+**University:** VIT Bhopal University <br>
 **Batch:** 2025  
 
 ---
